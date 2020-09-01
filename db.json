@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Rebook",
+      "precio": 5000
+    },
+    {
+      "nombre": "Puma BMW Negro",
+      "precio": 5000,
+      "id": 4
+    },
+    {
+      "nombre": "Coca Cola Vulcan Low",
+      "precio": 4500,
+      "id": 6
+    },
+    {
+      "nombre": "Salomon trekking 2",
+      "precio": 6800,
+      "id": 7
+    }
+  ]
+}
